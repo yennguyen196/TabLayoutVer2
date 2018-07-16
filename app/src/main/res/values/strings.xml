@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TabLayoutVer2</string>
+    <string name="one">TabLayoutVer2</string>
+    <string name="two">TabLayoutVer2</string>
+    <string name="three">TabLayoutVer2</string>
 </resources>
